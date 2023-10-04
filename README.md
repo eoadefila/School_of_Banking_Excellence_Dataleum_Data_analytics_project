@@ -20,3 +20,11 @@ c. Product
 4. What key products are the drivers of performance?
 5. If we would like to discontinue any product sub due to poor outcomes, what would this be?
 6. What product do we pay the highest tax on?
+
+# Skills I demonstrated
+
+Dax formula, Measures, Data visualization
+
+# Data set
+
+The dataset can is named Ofice Supply
