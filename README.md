@@ -1,3 +1,4 @@
+![]()
 # Introduction
 
 Over the period of 2013-2104, investors seeks to know how well the manufacturers in the Stationery Industry are fairing to help guide thier decision on which of the investor should they invest through and if thier investment will worth it.
@@ -27,4 +28,10 @@ Dax formula, Measures, Data visualization
 
 # Data set
 
-The dataset can is named Ofice Supply
+The dataset can is Excel file named Ofice Supply
+
+# Analysis
+
+Listed below are some of the Dax formular and calculated columns I wrote.
+
+
