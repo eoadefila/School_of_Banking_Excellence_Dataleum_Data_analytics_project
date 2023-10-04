@@ -25,14 +25,40 @@ c. Product
 
 # Skills I demonstrated
 
-Dax formula, Measures, Data visualization
+Dax formula, Measures, Data visualization, story telling.
 
 # Data set
 
 The dataset can is Excel file named Ofice Supply
 
+# Visuals
+
+The report consist of 
+
+Overview page
+
+Segment page
+
+State page
+
+Product page
+
+Segment_product page
+
+
+
 # Analysis
 
 Listed below are some of the Dax formular and calculated columns I wrote.
+
+
+# Presentation slide
+
+The link to the presentation slide is [here](https://docs.google.com/presentation/d/1dHWTbo_3-nc2CO2cbpn5k_KkLSrk8rf0aljMtH1hrhQ/edit#slide=id.p)
+
+# Story Telling
+
+
+# Limitation
 
 
