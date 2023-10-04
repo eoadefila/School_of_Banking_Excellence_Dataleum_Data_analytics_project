@@ -1,2 +1,3 @@
-# School_of_Banking_Excellence_Dataleum_Data_analytics_project
-This is the data analytics project I did together wirh Ahmed Adeogun at School of Banking Excellence of Access Bank.  We were asked to create a report on behalf of Dataleum on an Office Supply Dataset.
+# Introduction
+
+Over the period of 2013-2104, investors seeks to know how well the manufacturers in the Stationery Industry are fairing to help guide thier decision on which of the investor should they invest through and if thier investment will worth it.
