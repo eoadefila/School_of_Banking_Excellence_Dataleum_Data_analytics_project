@@ -93,11 +93,13 @@ Investors who risk their capital/ready to invest thier capital into the Statione
 ![](slide_3.PNG)
 Accross, the stationery industry for the Fiscal year 2014; Sales were very poor, trend of profit is erratic with huge loss June and August and Maximum profit of 3.1M; manufacturing cost eat deeply into the Revenue which then lead the industry to record 12.70% profit margin. These performance were done by 6 segments, across 6 location with 5 products (stapler, notepad, biro, A4 paper and Biro). The average sales price was the same across the state, but manufacrturing cost less in Lagos and cost most in Oyo.
 ![](slide_4.PNG)
-Small Business had outstanding performace, with just 15.58% of the total manufacture in the industry turned it to great profit margin, follwed by government while Mid Market and Channel Partners performed woefuly: as their average manuafacturing price consumed the sales profit leading to poor profit margin. 
+Small Business had outstanding performace, with just 15.58% of the total manufacture in the industry turned it to great profit margin, followed by government who has all the resources at her disposal to manufacture while Mid Market and Channel Partners performed woefuly: as their average manuafacturing price consumed the sales profit leading to poor profit margin. The investors should invest through Small Business and Government.
 ![](slide_5.PNG)
+Across all the states, the segments kept thier perfomence the same as shown in the previous slide: Small Business kept the  outstanding performace, total manufacture in the industry turned it to great profit margin, followed by government who has all the resources at her disposal to manufacture while Mid Market and Channel Partners performed woefuly: as their average manuafacturing price consumed the sales profit leading to poor profit margin.
 ![](slide_6.PNG)
+The product with fewer/greater manufacture yeild great/lesser profit margin because the average sales price is greater than the average manufacture (cost) profit. Revenue is driven by discount.
 ![](slide_7.PNG)
-
+This slide looks indepth at every product performance across all segment, the product  to discontinue are staples, notepad and Markers; while the others can be continued.
 # Key Findings
 
 * Sales is as a result of discount.
