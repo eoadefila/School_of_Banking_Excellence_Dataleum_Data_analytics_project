@@ -55,6 +55,28 @@ Segment_product page
 
 Listed below are some of the Dax formular and calculated columns I wrote.
 
+Gross Sales = [Units Sold]*[Sale Price]
+
+Discount rate = if([Discount Band]="None",0,if([Discount Band]="Low",0.01,if([Discount Band]="Medium",0.05,0.1)))
+
+Discount = [Discount Rate]*[Gross Sales]
+
+Revenue = [Gross Sales]-[Discount]
+
+Manufacture Cost = [Units Sold]*[Manufacturing Price]
+
+Profit before Tax = [Revenue] - [Manufacture Cost]
+
+Tax on profit = 0.05*[Profit before Tax]
+
+Profit after tax = [Profit before Tax]-[Tax on profit]
+
+Month_number = MONTH(financials3[Date])
+
+Year = YEAR(financials3[Date])
+
+Month = FORMAT(financials3[Date],"MMM") 
+
 
 # Presentation slide
 
