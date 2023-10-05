@@ -83,10 +83,29 @@ Month = FORMAT(financials3[Date],"MMM")
 The link to the presentation slide is [here](https://docs.google.com/presentation/d/1dHWTbo_3-nc2CO2cbpn5k_KkLSrk8rf0aljMtH1hrhQ/edit#slide=id.p)
 
 # Story Telling
+![](slide_1.PNG)
+![](slide_2.PNG)
+![](slide_3.PNG)
+![](slide_4.PNG)
+![](slide_5.PNG)
+![](slide_6.PNG)
+![](slide_7.PNG)
 
+# Key Findings
 
+* Sales is as a result of discount.
+* Good/bad  performance of product depend on either sales price is greater than manufacture price of the price and vice versa
+* Product such as Staplers, Marker and Notepad should not be manufactured again.
 
+# Recommendation
 
-# Limitation
+* Government and Enterprise segment should undertaken measures to minimize Manufacture cost by sources of its raw materials from a cheaper source.
+* The Discount Bands: High and Medium should be erased by all segment to mitigate the detriment cost it have on the company’s profit.
+* All segment should come up with measure to retain its customer by introducing subscription plan.
+* Product such as Staplers and Notepad should not be manufactured again.
+
+# Conclusion
+Clearly, every segment can achieve greater profitability if and only if they minimize their manufacture cost and adopt to continue Low discount band.
+
 
 
