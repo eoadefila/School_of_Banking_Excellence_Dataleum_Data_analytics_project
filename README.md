@@ -84,6 +84,7 @@ The link to the presentation slide is [here](https://docs.google.com/presentatio
 
 # Story Telling
 ![](slide_1.PNG)
+Good day all, Ahmed and I will be presenting to your the report from the analysis Office supply deataset with the title: "DESCRIPTIVE & DIAGNOSTIC ANALYSIS OF A STATIONERY INDUSTRY FOR YEAR 2014".
 ![](slide_2.PNG)
 ![](slide_3.PNG)
 ![](slide_4.PNG)
