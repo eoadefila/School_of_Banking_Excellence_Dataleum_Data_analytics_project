@@ -93,6 +93,7 @@ Investors who risk their capital/ready to invest thier capital into the Statione
 ![](slide_3.PNG)
 Accross, the stationery industry for the Fiscal year 2014; Sales were very poor, trend of profit is erratic with huge loss June and August and Maximum profit of 3.1M; manufacturing cost eat deeply into the Revenue which then lead the industry to record 12.70% profit margin. These performance were done by 6 segments, across 6 location with 5 products (stapler, notepad, biro, A4 paper and Biro). The average sales price was the same across the state, but manufacrturing cost less in Lagos and cost most in Oyo.
 ![](slide_4.PNG)
+Small Business had outstanding performace, with just 15.58% of the total manufacture in the industry turned it to great profit margin, follwed by government while Mid Market and Channel Partners performed woefuly: as their average manuafacturing price consumed the sales profit leading to poor profit margin. 
 ![](slide_5.PNG)
 ![](slide_6.PNG)
 ![](slide_7.PNG)
