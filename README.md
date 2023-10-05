@@ -77,6 +77,9 @@ Year = YEAR(financials3[Date])
 
 Month = FORMAT(financials3[Date],"MMM") 
 
+# PowerBI service link
+
+Click [here](https://app.powerbi.com/links/bJ4fJpgGes?ctid=a4531a04-9d2c-48c6-aee4-9c374f98bea5&pbi_source=linkShare&bookmarkGuid=1286b9ea-2a5d-4b64-a9ad-9ec00985090f) for the interactive dash board on  PowerBI service 
 
 # Presentation slide
 
@@ -86,6 +89,7 @@ The link to the presentation slide is [here](https://docs.google.com/presentatio
 ![](slide_1.PNG)
 Good day all, Ahmed and I will be presenting to your the report from the analysis Office supply deataset with the title: "DESCRIPTIVE & DIAGNOSTIC ANALYSIS OF A STATIONERY INDUSTRY FOR YEAR 2014".
 ![](slide_2.PNG)
+Answering business objective rest upon the following KPI:  the report on all products sold between January and December 2014, showing number of sales, sales proportions and financial performance. Ensure your analysis can be used to determine whether there is growth or decline on any of the product lines
 ![](slide_3.PNG)
 ![](slide_4.PNG)
 ![](slide_5.PNG)
