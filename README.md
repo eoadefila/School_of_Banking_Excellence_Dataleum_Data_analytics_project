@@ -2,7 +2,7 @@
 
 # Introduction
 
-Over the financial year of 2013-2104, investors seeks to know how well the manufacturers in the Stationery Industry are fairing to help guide thier decision on which of the manufacturer/ segment (segment was used in the dataset) should they invest through and if thier investment will worth it.
+Over the financial year of 2013-2104, investors seeks to know how well the manufacturers in the Stationery Industry are fairing to help guide thier decision on which of the manufacturer/ segment should they invest through and if thier investment will be worth of it.
 
 # Problem Statement
 
@@ -29,7 +29,7 @@ Dax formula, Measures, Data visualization, story telling.
 
 # Data set
 
-The dataset can is Excel file named Ofice Supply
+The dataset is Excel file named Ofice Supply
 
 # Visuals
 
@@ -57,7 +57,7 @@ Listed below are some of the Dax formular and calculated columns I wrote.
 
 Gross Sales = [Units Sold]*[Sale Price]
 
-Discount rate = if([Discount Band]="None",0,if([Discount Band]="Low",0.01,if([Discount Band]="Medium",0.05,0.1)))
+Discount rate=if([DiscountBand]="None",0,if([DiscountBand]="Low",0.01,if([DiscountBand]="Medium",0.05,0.1)))
 
 Discount = [Discount Rate]*[Gross Sales]
 
