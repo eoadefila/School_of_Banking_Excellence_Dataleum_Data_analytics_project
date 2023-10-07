@@ -121,7 +121,6 @@ The product with fewer/greater manufacture yeild great/lesser profit margin beca
 # Recommendation
 
 * Government and Enterprise segment should undertaken measures to minimize Manufacture cost by sources of its raw materials from a cheaper source.
-* The Discount Bands: High and Medium should be erased by all segment to mitigate the detriment cost it have on the company’s profit.
 * All segment should come up with measure to retain its customer by introducing subscription plan.
 * Product such as Staplers and Notepad should not be manufactured again.
 
