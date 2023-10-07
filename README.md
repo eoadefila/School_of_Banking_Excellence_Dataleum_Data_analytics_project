@@ -41,15 +41,14 @@ Overview page
 Segment page
 ![](segment_slide_2.PNG)
 
+Segment_product page
+![](segment_product_slide_5.PNG)
+
 State page
 ![](state_slide_3.PNG)
 
 Product page
 ![](product_slide_4.PNG)
-
-Segment_product page
-![](segment_product_slide_5.PNG)
-
 
 # Analysis
 
