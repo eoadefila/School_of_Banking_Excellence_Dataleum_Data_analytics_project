@@ -47,6 +47,9 @@ Segment_product page
 State page
 ![](state_slide_3.PNG)
 
+State Product Page
+![](product_state.PNG)
+
 Product page
 ![](product_slide_4.PNG)
 
@@ -97,6 +100,8 @@ Small Business had outstanding performace, with just 15.58% of the total manufac
 This slide looks indepth at every product performance across all segment, the product  to discontinue are staples, notepad and Markers; while the others can be continued.
 ![](slide_5.PNG)
 Across all the states, the segments kept thier perfomence the same as shown in the previous slide: Small Business kept the  outstanding performace, total manufacture in the industry turned it to great profit margin, followed by government who has all the resources at her disposal to manufacture while Mid Market and Channel Partners performed woefuly: as their average manuafacturing price consumed the sales profit leading to poor profit margin.
+![](product_state.PNG)
+Across all state, more resources were commited to the production of pproducts to be discontinue (stapler, markers, notepad). Fewer resources were commited to A4 paper, Biro and pencil: these are the product that had impressive performance. 
 ![](slide_6.PNG)
 The product with fewer/greater manufacture yeild great/lesser profit margin because the average sales price is greater than the average manufacture (cost) profit. Revenue is driven by discount.
 # Key Findings
