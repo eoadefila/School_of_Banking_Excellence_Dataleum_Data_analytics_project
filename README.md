@@ -2,7 +2,7 @@
 
 # Introduction
 
-Over the financial year of 2013-2104, investors seeks to know how well the manufacturers in the Stationery Industry are fairing to help guide thier decision on which of the manufacturer/ segment should they invest through and if thier investment will be worth of it.
+Over the financial year of 2013-2014, investors seeks to know how well the manufacturers in the Stationery Industry are fairing to help guide thier decision on which of the manufacturer/ segment should they invest through and if thier investment will be worth of it.
 
 # Problem Statement
 
